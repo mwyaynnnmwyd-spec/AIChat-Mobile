@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AIChat</string>
+    <string name="send_button">إرسال</string>
+    <string name="hint_message">اكتب رسالتك...</string>
+    <string name="welcome_message">مرحباً! اكتب رسالتك وسأرد عليك</string>
+</resources>
