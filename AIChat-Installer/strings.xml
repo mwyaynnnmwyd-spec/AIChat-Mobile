@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AIChat Installer</string>
+    <string name="install_button">ابدأ التثبيت</string>
+    <string name="downloading">جاري التحميل...</string>
+    <string name="installing">جاري التثبيت...</string>
+    <string name="success">تم التثبيت بنجاح!</string>
+    <string name="error">حدث خطأ في التثبيت</string>
+</resources>
